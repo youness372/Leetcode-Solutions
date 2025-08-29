@@ -94,5 +94,4 @@ class Solution:
 ```   
 
 
-<img width="555" height="444" alt="Do it Go to the Secend Slideis just a step" src="https://github.com/user-attachments/assets/a142c97d-c591-4b3e-8f83-c79f397874d5" />
-
+<img width="555" height="425" alt="Hope you enjoyed this part  See what's next!" src="https://github.com/user-attachments/assets/253909ef-e143-4df7-80d0-ee2757167f8e" />
