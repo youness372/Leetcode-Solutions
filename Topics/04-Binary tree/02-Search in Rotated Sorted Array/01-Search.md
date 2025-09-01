@@ -1,5 +1,3 @@
-# LeetCode 33: Search in Rotated Sorted Array
----
 
 ## *Problem Description 🤔*   
 
@@ -112,7 +110,8 @@ class Solution {
         
     }
 }
-```
+```  
+##  *C++  Implementation*   
 ```cpp
 class Solution {
 public:
@@ -209,10 +208,8 @@ At any mid point, one side is guaranteed to be in proper sorted order!
 ### Approach 1: Find Pivot + Binary Search
 ```python
 def search(self, nums, target):
-    # Find rotation point first
     pivot = self.findPivot(nums)
-    # Then do binary search on appropriate half
-    # More complex but separates concerns
+
 ```
 
 ### Approach 2: Linear Search `O(n)`
