@@ -1,4 +1,4 @@
-# *Find Closest Number Solution 🔍🐦‍🔥*   
+# *Find Closest Number Solution 🐦‍🔥*   
 [![LeetCode](https://img.shields.io/badge/LeetCode-3516-orange.svg)](https://leetcode.com/problems/find-closest-person/description/)
 
 ## *Problem Description 🧩*     
