@@ -23,12 +23,42 @@ If something here helps you, I’m happy — and if you find improvements, pleas
 
 ---
 
-## Repository structure
 
+## 📊 Progress & Stats  
 
-## 🔗 Links
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youness-agrine-4b957831a/)
-<!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/youness-444?ext=contest&theme=dark&animation=true)  
+
+---
+
+## 🔥 Recently Solved  
+
+| Problem | Difficulty | Language | Solution |
+|---------|------------|----------|----------|
+| K Closest Points to Origin | Medium | Python / Java / C++ | [View](./Medium/kClosestPoints.md) |
+| Two Sum | Easy | Python / Java | [View](./Easy/TwoSum.md) |
+| Longest Substring Without Repeating Characters | Medium | Python | [View](./Medium/LongestSubstring.md) |
+
+---
+
+## 📚 Resources I Use  
+
+- [LeetCode Discuss](https://leetcode.com/discuss/)  
+- [NeetCode Roadmap](https://neetcode.io/roadmap)  
+- [Visual Algo](https://visualgo.net/en)  
+- YouTube Channels: NeetCode, Abdul Bari, CS Dojo  
+
+---
+
+## *Connect with Me ➕*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youness%20Agrine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youness-agrine-4b957831a/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/youness-444/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Youness--444-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB)  
+
+---
+
+✨ *Keep grinding — consistency beats motivation!* ✨     
+
+<img width="1000" height="999" alt="I hope you Enjoy" src="https://github.com/user-attachments/assets/975f0985-5507-4f52-890d-bbfddf1dd8cf" />
 
 
