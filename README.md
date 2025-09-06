@@ -34,9 +34,9 @@ If something here helps you, I’m happy — and if you find improvements, pleas
 
 | Problem | Difficulty | Language | Solution |
 |---------|------------|----------|----------|
-| K Closest Points to Origin | Medium | Python / Java / C++ | [View](./Medium/01-KClosset.md) |
-| Two Sum | Easy | Python / Java | [View](./Easy/TwoSum.md) |
-| Longest Substring Without Repeating Characters | Medium | Python | [View](./Medium/LongestSubstring.md) |
+| K Closest Points to Origin | Medium | Python / Java / C++ | [View](https://github.com/youness372/Leetcode-Solutions/tree/main/Topics/01-Arrays/01-Closest%20Points%20to%20Origin) |
+| Find Minimum in Rotated Sorted Array | Medium | Python / Java | [View](https://github.com/youness372/Leetcode-Solutions/tree/main/Topics/04-Binary%20tree/01-Find%20Minimum%20in%20Rotated%20Sorted%20Array) |
+| Search in Rotated Sorted Array | Medium | Python / Java | [View](https://github.com/youness372/Leetcode-Solutions/tree/main/Topics/04-Binary%20tree/02-Search%20in%20Rotated%20Sorted%20Array) |
 
 ---
 
