@@ -34,7 +34,7 @@ If something here helps you, I’m happy — and if you find improvements, pleas
 
 | Problem | Difficulty | Language | Solution |
 |---------|------------|----------|----------|
-| K Closest Points to Origin | Medium | Python / Java / C++ | [View](./Medium/kClosestPoints.md) |
+| K Closest Points to Origin | Medium | Python / Java / C++ | [View](./Medium/01-KClosset.md) |
 | Two Sum | Easy | Python / Java | [View](./Easy/TwoSum.md) |
 | Longest Substring Without Repeating Characters | Medium | Python | [View](./Medium/LongestSubstring.md) |
 
