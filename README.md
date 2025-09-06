@@ -54,6 +54,7 @@ If something here helps you, I’m happy — and if you find improvements, pleas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youness%20Agrine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youness-agrine-4b957831a/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/youness-444/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Youness--444-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB)  
+[![X](https://img.shields.io/badge/X-(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AgrineYoun90744)  
 
 ---
 
